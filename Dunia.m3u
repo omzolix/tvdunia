@@ -1,4 +1,120 @@
 
+#######event timnas########
+
+=========================================SPORTSTAR 2=================================================
+ 
+ #EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",Sportstars 2
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SPORTSTAR 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SOCCER CHANNEL
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",Sport digital TV
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",ESPN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",RCTI+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/116.0.0.0 Mobile Safari/537.36
+https://1s1.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",soccer
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live", sportstar2
+#EXTVLCOPT:http-referrer=https://useetvwv.visionplus.id/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_dash/rcti-sportstar2.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",SSC 1
+#KODIPROP:inputstream.adaptive.stream_headers=Mozilla/5.0
+https://cempedak-live-cdn.mncnow.id/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", group-type="live",fancode
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+https://a39aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/l8j2xgwt32/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",SPORTSTAR 2
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.18 LibVLC/3.0.18
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",RCTI HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/7
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.5.5 (Linux;Android 10) ExoPlayerLib/2.13.2
+#https://play-gachor.xyz/htv@lite/kjTECpmDmq/5
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#https://www.geocities.ws/wakhaji/offline/offline.m3u8
+
+#EXTHTTP:{"User-Agent": "Mozilla/5.0%20(Linux;%20Android%2014;%20RMX3393%20Build/UKQ1.230924.001)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/127.0.6533.103%20Mobile%20Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://xplayns.xyssatuu.workers.dev/xPLAY_01.mpd?id=loh&ch=17701
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://kametv.my.id/pdx/play.mpd?id=17701
+
+#EXTHTTP:{"User-Agent": "Mozilla/5.0%20(Linux;%20Android%2014;%20RMX3393%20Build/UKQ1.230924.001)%20AppleWebKit/537.36%20(KHTML,%20like%20Gecko)%20Version/4.0%20Chrome/127.0.6533.103%20Mobile%20Safari/537.36"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS", events only(multi) 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
+#https://xplayns.xyssatuu.workers.dev/xPLAY_74.mpd?id=loh&ch=17674
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b3841d4a390726e49ebeedaf405aa7:0db07a6a4009b6739e758839c7d1d347
+#https://kametv.my.id/pdx/play.mpd?id=17674
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WlDuoDu.png" group-title="TIMNAS",events only(multi) 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4c19ed9fa1286d532cdd8b3225be6b2:b0f85a36664e01f3ebda61f31ebf7203
+#https://kametv.my.id/pdx/play.mpd?id=17701
+
+
+
+
+
+
+
 
 
 ##########################
@@ -89,13 +205,12 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/DYnBt3J.png" group-title="NASIONAL",Indosiar Ind
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/DYnBt3J.png",Indosiar HD
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="OChannel.id" tvg-logo="https://i.imgur.com/mtqEpzt.png",Moji
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -229,6 +344,27 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
 
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/1Y9DZaN.png",Channel Jowo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/1Y9DZaN.png",Channel Jowo cub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="NASIONAL" tvg-id="IndonesianaTV.id" tvg-logo="https://i.imgur.com/1Y9DZaN.png",Channel Jowo back
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-jos.fiqriaw8.workers.dev/dcub
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
 
 
 
